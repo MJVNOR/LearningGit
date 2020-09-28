@@ -70,11 +70,11 @@
 - Luego darle al boton de 'New pull request'
 - Despues Te saldrá esta ventana, la llenas diciendo tu trabajo y asegurandote que en base sea el repositorio original y listo!
 
-…or create a new repository on the command line
-echo "# LearningGit" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin git@github.com:MJVNOR/LearningGit.git
-git push -u origin master
+#### Comandos rapidos 
+	echo "# LearningGit" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M master
+	git remote add origin git@github.com:MJVNOR/LearningGit.git
+	git push -u origin master
