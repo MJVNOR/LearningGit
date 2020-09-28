@@ -43,7 +43,7 @@
 		git push origin miNuevaRama
 
 #### Agregar un repositorio remoto (este se usa si es que hiciste un fork a otro repositorio y trabajas en el fork):
-	git remote add upstream https://github.com/oliviagutu/CONSERVADORES-LIBERALES
+	git remote add upstream https://github.com/nombreUsuario/nombreRep.git
 
 ###### Para verificar tu repositorio (Para ver tu origin (tu repositorio) y el upstream (ver el repo remoto))
 	git remote -v
